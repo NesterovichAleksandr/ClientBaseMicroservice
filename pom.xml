@@ -12,7 +12,7 @@
 
     <modules>
         <module>config-service</module>
-        <!--    <module>api-gateway</module>-->
+        <module>api-gateway</module>
         <!--    <module>logging-service</module>-->
     </modules>
 
